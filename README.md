@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Uploading trex.jpg…]()
+
+![trex](https://github.com/user-attachments/assets/9336b994-fce1-4cf5-b6c2-c9f9f9b24f0f)
+
 
 - 🔭 I’m currently working on GSM Network Engineer Issue
 - 🌱 I’m currently learning Github and Co-pilot
